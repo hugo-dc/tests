@@ -43,6 +43,7 @@
 
 ## call
  - [x] _call_ - Transaction to an account which calls another account which stores a value to storage
+ - [x] _callNoDataNoValue_ - Transaction to an account which makes a call providing no data and no value: https://github.com/ewasm/tests/pull/6
 
 ## storageLoad
  - [x] _storageLoad_ - Transaction to an account with code that loads a value already stored in storage and stores it in another storage location.
