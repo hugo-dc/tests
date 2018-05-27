@@ -2,8 +2,8 @@
     "getGasLeftCountUsedGas" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.76e2e296.Darwin.appleclang",
-            "lllcversion" : "Version: 0.4.20-develop.2018.1.2+commit.efc198d5.Darwin.appleclang",
+            "filledwith" : "testeth 1.4.0.dev0-7+commit.b3285e37.dirty",
+            "lllcversion" : "Version: 0.4.19+commit.c4cbbb05.Linux.clang",
             "source" : "src/GeneralStateTestsFiller/stEWASMTests/getGasLeftCountUsedGasFiller.yml",
             "sourceHash" : "e758a6613b0f44ce24b7cb4a6c548eb3d16679720f3b5b85cdc7da5679c00b26"
         },

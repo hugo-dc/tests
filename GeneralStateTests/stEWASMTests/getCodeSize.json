@@ -2,8 +2,8 @@
     "getCodeSize" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.76e2e296.Darwin.appleclang",
-            "lllcversion" : "Version: 0.4.20-develop.2018.1.2+commit.efc198d5.Darwin.appleclang",
+            "filledwith" : "testeth 1.4.0.dev0-7+commit.b3285e37.dirty",
+            "lllcversion" : "Version: 0.4.19+commit.c4cbbb05.Linux.clang",
             "source" : "src/GeneralStateTestsFiller/stEWASMTests/getCodeSizeFiller.yml",
             "sourceHash" : "0290c27386e68cb4a43b3d3bb3c8b3893a6aada8f41a34e1b632da2c39e0196f"
         },
