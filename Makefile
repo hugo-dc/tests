@@ -3,7 +3,7 @@ export ETHEREUM_TEST_PATH
 
 # TODO: stop stripping out stEWASMTests from gs_tests
 tx_tests:=$(wildcard TransactionTests/*)
-gs_tests:=$(filter-out %stEWASMTests, $(wildcard GeneralStateTests/*))
+gs_tests:=$(wildcard GeneralStateTests/*)
 bc_tests:=$(wildcard BlockchainTests/*)
 vm_tests:=$(wildcard VMTests/*)
 all_tests:=$(gs_tests) $(bc_tests) $(vm_tests)
